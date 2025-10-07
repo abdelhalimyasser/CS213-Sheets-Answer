@@ -1,4 +1,4 @@
-# 📘 PL2 (CS-213) Sheets Solutions  
+# 📘 Programming Languages 2 (CS-213) Sheets Solutions  
 
 This repository contains **solutions** to the practice sheets of **Programming Language 2 (Java) – Fall 2025**, taught by **Dr. Mohammed El-Said**.  
 It is created to help students understand Java programming concepts, object-oriented principles, and improve their coding skills in **Java**.  
