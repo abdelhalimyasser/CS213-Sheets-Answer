@@ -19,30 +19,38 @@ class Account {
 	}
 
 	// Class setters methods
-	public void setId() {
+	public void setId(int id) {
+		this.id = id;
 	}
 
-	public void setBalance() {
+	public void setBalance(double balance) {
+		this.balance = balance;
 	}
 
-	public void setAnnualInterestRate() {
+	public void setAnnualInterestRate(double annualInterestRate) {
+		this.annualInterestRate = annualInterestRate;
 	}
 
 	// Class getters methods
 	public int getId() {
-		return
+		return this.id;
 	}
 
 	public double getBalance() {
-		return
+		return this.balance;
 	}
 
 	public double getAnnualInterestRate() {
-		return
+		return this.annualInterestRate;
 	}
 
 	// Class functianol methods
-	getMonthlyInterestRate()
-	withdraw()
+	getMonthlyInterestRate() {
+	}
+
+	withdraw() {
+	}
+
 	deposite() {
 	}
+}
